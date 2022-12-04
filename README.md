@@ -2,6 +2,7 @@
 --> Please open "CravingsHub" folder and ignore all other files.
 --> Navigate through backend folder, there you will find database file with title "Database.accdb" required for FILTERS page and it's python code with title "Python" and JavaScripts with title "app.js" & "script". 
 --> Navigate through  frontend folder, there you will find the HOME with title "index", ABOUT page with title "about", FILTERS page with title "tags", COOKBOOK page with title "recipe", and error page with title "404", and the required CSS files with titles "main" & "normalize". 
+--> The "assets" folder in frontend folder has all the images of the website.
 --> The project report is also in "CravingsHub" folder with the title "Project Report".
 --
 <!--
