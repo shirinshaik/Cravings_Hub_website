@@ -1,9 +1,12 @@
 ### Hi there 👋
---> Please open "CravingsHub" folder.
---> Navigate through backend folder, there you will find database file with title "Database.accdb" required for FILTERS page and it's python code with title "Python" and JavaScripts with title "app.js" & "script". 
---> Navigate through  frontend folder, there you will find the HOME with title "index", ABOUT page with title "about", FILTERS page with title "tags", COOKBOOK page with title "recipe", and error page with title "404", and the required CSS files with titles "main" & "normalize". 
+--> Please make sure to include all the project files in one folder.
+--> "assets" folder refers to all the images used in the website. --> "Bmyc" refers to html FILTERS page where all the breakfast options are showed. --> "Bmeals1 - Bmeals5" refers to html Filters page where the food options in each breakfast type displayed. --> "Bsingle-recipe1, Bsingle-recipe1.1 ....... Bsingle-recipe5.1" are single breakfast recipe cards. 
+-->"Lmyc" refers to html FILTERS page where all the Lunch options are showed. --> "Lmeals1 - Lmeals5" refers to html Filters page where the food options in each Lunch type displayed. --> "Lsingle-recipe1, Lsingle-recipe1.1 ....... Lsingle-recipe5.1" are single Lunch recipe cards.
+--> "Dmyc" refers to html FILTERS page where all the Dinner options are showed. --> "Dmeals1 - Dmeals5" refers to html Filters page where the food options in each Dinner type displayed. --> "Dsingle-recipe1, Dsingle-recipe1.1 ....... Dsingle-recipe5.1" are single Dinner recipe cards.
+--> "Brmyc" refers to html FILTERS page where all the beverages options are showed.--> "Brmeals1 - Brmeals5" refers to html Filters page where the food options in each beverages type displayed. --> "Brsingle-recipe1, Brsingle-recipe1.1 ....... Brsingle-recipe5.1" are single Beverages recipe cards.
+you will find the HOME with title "index", ABOUT page with title "about", FILTERS page with title "tags", COOKBOOK page with title "recipe", and error page with title "404", and the required CSS files with titles "main" & "normalize", the helpful link page with title "remedy", "exercise" html file refers to the Exercises for cramps page, "food" html file refers to the Foods to avoid during menstruation.
 --> The "assets" folder in frontend folder has all the images of the website.
---> The project report is also in "CravingsHub" folder with the title "Project Report".
+--> The project report is under title "Final Project Report"
 <!--
 **shirinshaik/shirinshaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
