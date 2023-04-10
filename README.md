@@ -1,15 +1,10 @@
-### Hi there 👋
---> Please make sure to include all the project files in one folder.
---> "assets" folder refers to all the images used in the website. --> "Bmyc" refers to html FILTERS page where all the breakfast options are showed. --> "Bmeals1 - Bmeals5" refers to html Filters page where the food options in each breakfast type displayed. --> "Bsingle-recipe1, Bsingle-recipe1.1 ....... Bsingle-recipe5.1" are single breakfast recipe cards. 
--->"Lmyc" refers to html FILTERS page where all the Lunch options are showed. --> "Lmeals1 - Lmeals5" refers to html Filters page where the food options in each Lunch type displayed. --> "Lsingle-recipe1, Lsingle-recipe1.1 ....... Lsingle-recipe5.1" are single Lunch recipe cards.
---> "Dmyc" refers to html FILTERS page where all the Dinner options are showed. --> "Dmeals1 - Dmeals5" refers to html Filters page where the food options in each Dinner type displayed. --> "Dsingle-recipe1, Dsingle-recipe1.1 ....... Dsingle-recipe5.1" are single Dinner recipe cards.
---> "Brmyc" refers to html FILTERS page where all the beverages options are showed.--> "Brmeals1 - Brmeals5" refers to html Filters page where the food options in each beverages type displayed. --> "Brsingle-recipe1, Brsingle-recipe1.1 ....... Brsingle-recipe5.1" are single Beverages recipe cards.
-you will find the HOME with title "index", ABOUT page with title "about", FILTERS page with title "tags", COOKBOOK page with title "recipe", and error page with title "404", and the required CSS files with titles "main" & "normalize", the helpful link page with title "remedy", "exercise" html file refers to the Exercises for cramps page, "food" html file refers to the Foods to avoid during menstruation.
---> The "assets" folder in frontend folder has all the images of the website.
---> The project report is under title "Final Project Report"
-<!--
-**shirinshaik/shirinshaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 Welcome to my space!
+- 💬 Ask me about web development, latest tech trends, and let's chat about how beautiful the sky is!
+- 🌱 I’m currently learning Java and web development fundamentals as I am interested in Software Development.
+- 🤔 I’m looking for help with any open positions for graduate level roles in software development field.
+- 📫 How to reach me: shaikshirinsultana@gmail.com
+- 😄 Pronouns: she/her
+- My Favorite Quote: "Free education is abundant all over the internet. It's the desire to learn that's scarce." /Naval via Twitter/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
