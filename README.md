@@ -1,7 +1,3 @@
-### Hi there 👋 Welcome to ✨my space!✨
-- 💬 Ask me about Data📊, latest tech trends📈, and let's chat about how insightful and mysterious data is! 👀
-- 🌱 I’m currently diving deep into the world of Healthcare Data as I seek out to be an investigator 🕵🏻‍♀️ in the field and make meaningful contributions.
-- 🤔 I’m looking for graduate level roles in Data Analytics, Business Analysis, and Project Management.
-- 📫 How to reach me: shaikshirinsultana@gmail.com
-- 😄 Pronouns: she/her
-- My Favorite Quote: "Free education is abundant all over the internet. It's the desire to learn that's scarce." /Naval via Twitter/
+Developed a web application software that generates food recommendations for pregnant women and women on their menstrual cycle; leveraged HTML, CSS, and JavaScript to develop frontend software; built a synchronized database using PhpMyAdmin and set-up Google Analytics to monitor user behavior, resulting in optimized user experience.
+
+![image](https://github.com/shirinshaik/Cravings_Hub_website/assets/113626760/6ab9f335-a65d-4427-8a92-c96b742c9969)
